@@ -17,6 +17,7 @@ enum MediaType
 	H264 = 96,
 	AAC  = 37,
 	H265 = 265,   
+	Metadata = 107,
 	NONE
 };	
 
